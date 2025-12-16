@@ -1,2 +1,2 @@
-# Projetoip
-Projeto final da cadeira de introdução a programação
+# Projetoic
+Projeto final da cadeira de introdução a computação
